@@ -12258,7 +12258,7 @@ html {
 }
 
 #birds {
-  height: 100vh;
+  height: 100%;
   padding-top: 6rem;
   font-family: 'Press Start 2P', cursive;
 }
@@ -12278,7 +12278,7 @@ html {
 
 @media (min-width: 1000px) {
   #birds {
-    padding-top: 22vh;
+    padding-top: 19vh;
   }
 }
 
