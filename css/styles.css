@@ -522,11 +522,6 @@ progress {
   display: none !important;
 }
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
-
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
@@ -12272,6 +12267,17 @@ html {
   #birds {
     padding-top: 22vh;
   }
+}
+
+.hero {
+  font-size: 2em;
+  text-align: left;
+}
+
+.lead {
+  font-size: 1rem;
+  font-weight: 300;
+  text-align: left;
 }
 
 .main-nav {
