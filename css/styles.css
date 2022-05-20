@@ -12267,17 +12267,17 @@ html {
   #birds {
     padding-top: 22vh;
   }
-}
 
-.hero {
-  font-size: 1.5rem;
-  text-align: left;
-}
+  .hero {
+    font-size: 1.5rem;
+    text-align: left;
+  }
 
-.lead {
-  font-size: 1rem;
-  font-weight: 300;
-  text-align: left;
+  .lead {
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: left;
+  }
 }
 
 .main-nav {
