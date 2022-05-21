@@ -12260,12 +12260,12 @@ html {
 #birds {
   height: 100vh;
   font-family: 'Press Start 2P', cursive;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 @media (max-width: 999px) {
   .hero {
-    padding-top: 6rem;
+    padding-top: 5rem;
     font-size: 1.5rem;
     text-align: left;
   }
