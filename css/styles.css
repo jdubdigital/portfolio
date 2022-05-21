@@ -12260,6 +12260,7 @@ html {
 #birds {
   height: 100vh;
   font-family: 'Press Start 2P', cursive;
+  overflow-y: hidden;
 }
 
 @media (max-width: 999px) {
